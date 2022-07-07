@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2859" started-at="2022-07-07T11:40:28Z" finished-at="2022-07-07T11:40:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2859" started-at="2022-07-07T11:40:28Z" finished-at="2022-07-07T11:40:31Z">
+      <class name="restAPIXML.XMLTest">
+        <test-method status="PASS" signature="GetReq()[pri:0, instance:restAPIXML.XMLTest@69b0fd6f]" name="GetReq" duration-ms="1777" started-at="2022-07-07T11:40:28Z" finished-at="2022-07-07T11:40:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetReq -->
+        <test-method status="PASS" signature="GetReq1()[pri:0, instance:restAPIXML.XMLTest@69b0fd6f]" name="GetReq1" duration-ms="1056" started-at="2022-07-07T11:40:29Z" finished-at="2022-07-07T11:40:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetReq1 -->
+      </class> <!-- restAPIXML.XMLTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
